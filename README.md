@@ -1,0 +1,2 @@
+# Food_reviews
+ https://www.kaggle.com/snap/amazon-fine-food-reviews  We have dataset abput food review and we have to build a model to predict if the customer reviews is positive or negative.... we have text reviews of some customers in our dataset and we have to do some analysis on it to help model to predict well and to improve the accuracy of the model.  On this notebook you will see some analysis on the dataset and the prediction model.
